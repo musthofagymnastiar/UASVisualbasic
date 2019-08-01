@@ -1,0 +1,23 @@
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.exe
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.pdb
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.xml
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.exe
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.xml
+C:\Users\user\AppData\Local\Temporary Projects\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.pdb
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.exe
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.xml
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.pdb
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.exe
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.pdb
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\bin\Debug\PencariNilaiAkhir.xml
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.Form1.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.FormLogin.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.FormMenu.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.Resources.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.vbproj.GenerateResource.Cache
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.DaftarSiswa.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.FormLulus.resources
+C:\Users\user\desktop\documents\visual studio 2010\Projects\PencariNilaiAkhir\PencariNilaiAkhir\obj\x86\Debug\PencariNilaiAkhir.FormTidak.resources
